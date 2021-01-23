@@ -5,3 +5,5 @@ Note: MATLAB. Try working around an Octave solution, if not try sth locally with
 
 ---
 <img width="25%" height="25%" src='https://cdn.discordapp.com/attachments/694279552607977483/793820594688491530/Screenshot_20201215_1526402.jpg' title=":(" />
+
+https://mybinder.org/v2/gh/Notebook-Factory/MRItech_notebooks/3a2e09c4d88bbe11a15f7f1209c3c894675fdeb7
