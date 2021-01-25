@@ -5,5 +5,9 @@ Note: MATLAB. Try working around an Octave solution, if not try sth locally with
 
 ---
 <img width="25%" height="25%" src='https://cdn.discordapp.com/attachments/694279552607977483/793820594688491530/Screenshot_20201215_1526402.jpg' title=":(" />
+<br>
+I work with javascript so click 'Trusted' so my code can execute without issues :)
+
+<img src='https://media.discordapp.net/attachments/694279552607977483/802490352719495189/2021-01-23_11_49_16-Clipboard.png' > </div>
 
 https://mybinder.org/v2/gh/Notebook-Factory/MRItech_notebooks/510a08f8a5024baa24f519947c98d4d8261261e3
