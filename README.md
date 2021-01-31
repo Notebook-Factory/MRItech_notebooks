@@ -4,10 +4,6 @@ Code: https://github.com/MRItech/mprage <br>
 Note: MATLAB. Try working around an Octave solution, if not try sth locally with plotly.
 
 ---
-<img width="25%" height="25%" src='https://cdn.discordapp.com/attachments/694279552607977483/793820594688491530/Screenshot_20201215_1526402.jpg' title=":(" />
-<br>
-I work with javascript so click 'Trusted' so my code can execute without issues :)
-
-<img src='https://media.discordapp.net/attachments/694279552607977483/802490352719495189/2021-01-23_11_49_16-Clipboard.png' > </div>
+scrapped, can't figure out octave 
 
 https://mybinder.org/v2/gh/Notebook-Factory/MRItech_notebooks/5df3617865d77be0bde3a28efae37fae2dbc8d39
